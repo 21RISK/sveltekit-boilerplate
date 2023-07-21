@@ -1,5 +1,5 @@
 {
-	"name": "sveltekit-2",
+	"name": "@eddy/web-app",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
